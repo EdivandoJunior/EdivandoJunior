@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Olá, me chamo Edivando Junior ! 
+## Bem vindo ao meu perfil GitHub 👋
+🔭 Atualmente estou cursando engenharia de computação na  UEFS
 <!--
 **EdivandoJunior/EdivandoJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
