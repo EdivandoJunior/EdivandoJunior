@@ -1,5 +1,5 @@
-Olá, me chamo Edivando Junior!
-Bem-vindo ao meu perfil GitHub 👋
+# Olá, me chamo Edivando Junior!
+## Bem-vindo ao meu perfil GitHub 👋
 
 🔭 Atualmente estou cursando Engenharia de Computação na UEFS, mas tenho uma trajetória anterior em engenharia de projetos, especialmente na área de elétrica, onde trabalhei por vários anos desenvolvendo e executando projetos técnicos.
 
