@@ -7,11 +7,11 @@ Com experiência prática em ferramentas como AutoCAD e Revit, fui responsável 
 
 🔧 Habilidades e Tecnologias:
 
-AutoCAD e Revit: Utilizados para a criação de projetos de sistemas elétricos, arquitetura e segurança.
+AutoCAD e Revit: Utilizados para a criação de projetos de sistemas elétricos, arquitetura e sistemas de prevenção e combate a incêndio.
 
 Gestão de Projetos: Planejamento e organização de tarefas para garantir a entrega de projetos com eficiência.
 
-Engenharia Elétrica e Arquitetura: Conhecimento na elaboração de projetos elétricos, sistemas de segurança e prevenção a incêndio.
+Engenharia Elétrica e Arquitetura: Conhecimento na elaboração de projetos elétricos, sistemas de prevenção e combate a incêndio.
 
 🚀 Objetivo Profissional: Estou atualmente em transição de carreira, com o objetivo de aplicar minha experiência em um novo contexto dentro da área de Engenharia de Computação. Busco sempre aprender e expandir meus conhecimentos, e acredito que meu histórico de trabalho me proporciona uma base sólida para desafios no mundo da tecnologia e inovação.
 <!--
