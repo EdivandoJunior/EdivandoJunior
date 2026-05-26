@@ -1,7 +1,7 @@
 # Olá, me chamo Edivando Junior!
 ## Bem-vindo ao meu perfil GitHub 👋
 
-🔭 Atualmente estou cursando Engenharia de Computação na UEFS, mas tenho uma trajetória anterior em engenharia de projetos, especialmente na área de elétrica, onde trabalhei por vários anos desenvolvendo e executando projetos técnicos.
+🔭 Atualmente estou cursando Engenharia de Computação na UEFS, mas tenho uma trajetória anterior em projetos de engenharia, especialmente na área de elétrica, onde trabalhei por vários anos desenvolvendo e projetos técnicos.
 
 Com experiência prática em ferramentas como AutoCAD e Revit, fui responsável pela criação de projetos elétricos residenciais e comerciais e também sistemas de prevenção e combate a incêndio. Ao longo dessa jornada, tive a oportunidade de lidar com diversas etapas do processo de projeto, desde a concepção inicial até a implementação de soluções, sempre buscando inovação e aderência às normas técnicas e de segurança.
 
